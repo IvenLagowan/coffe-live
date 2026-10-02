@@ -432,7 +432,7 @@ This project is developed for educational purposes as part of the Web Programmin
 
 **Fatlum Asani**  
 Computer Science Student  
-GitHub: [@fatlum1300](https://github.com/fatlum1300)
+GitHub: [@Iven](https://github.com/IvenLagowan)
 
 ---
 
@@ -448,10 +448,9 @@ GitHub: [@fatlum1300](https://github.com/fatlum1300)
 ## 📞 Contact
 
 For questions or feedback about this project:
-- GitHub: [@fatlum1300](https://github.com/fatlum1300)
-- Repository: [https://github.com/fatlum1300/life-caffe](https://github.com/fatlum1300/life-caffe)
-- Email: fatlumasanibc@gmail.com
-
+- GitHub: [Chua DF](https://github.com/IvenLagowan)
+- Repository: [https://github.com/IvenLagowan/coffe-live.git](https://github.com/IvenLagowan/coffe-live.git)
+- Email: cuaocuq@gmail.com
 ---
 
 **⭐ If you find this project helpful, please consider giving it a star!**
